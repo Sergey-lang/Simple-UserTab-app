@@ -3,7 +3,7 @@
 employees — страница со списком сотрудников
 На сайте, в шапке реализовать ссылки: Главная, Сотрудники
 
-###https://sergey-lang.github.io/Simple-UserTable-app/
+##https://sergey-lang.github.io/Simple-UserTab-app/
 
 Получение данных должно быть реализованно посредством вызова стороннего api —
 https://reqres.in/api/users?per_page=12
